@@ -1,6 +1,7 @@
 # VS CODE 설정 
 <br>
 settings.json
+<br>
 
 ```javascript
 // "editor.tabSize": 2,
