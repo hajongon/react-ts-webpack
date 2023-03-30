@@ -16,7 +16,7 @@ settings.json
 // 해결: editor.formatOnSave를 끄니까 된다.
 
 
-// add
+// add & edit
 
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
